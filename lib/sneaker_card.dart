@@ -124,6 +124,16 @@ class SneakerCard extends StatelessWidget {
                         borderRadius: BorderRadius.horizontal(left: Radius.circular(20.0), right:Radius.circular(20.0))
                       ),
                       child: Text('Go To Cart', style:cartStyle),
+                    ),
+                    SizedBox(width: 15.0),
+                    Container(
+                      height: 30.0,
+                      width: 30.0,
+                      decoration: BoxDecoration(
+                        color: Color(getColorHexFromStr('#35c7cc')),
+                        borderRadius: BorderRadius.circular(20.0)
+                      ),
+                      child: Icon(Icons.delete, color: Colors.white, size: 16.0),
                     )
                   ],
                 )

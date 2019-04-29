@@ -91,7 +91,7 @@ class _MyHomePageState extends State<MyHomePage> {
           ),
           Expanded(
              child: Padding(
-              padding: EdgeInsets.all(16.0),
+              padding: EdgeInsets.only(left: 16.0,right:16.0, top:16.0),
               child: ListView(
                 scrollDirection: Axis.vertical,
                 shrinkWrap: true,

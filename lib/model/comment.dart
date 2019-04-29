@@ -13,19 +13,19 @@ final lebronComments = [
     user: 'Papa Gray',
     date: '12th Feb 2019',
     desc: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley',
-    userImg: ''
+    userImg: 'assets/profile1.jpg'
   ),
   Comment(
     user: 'Martin Summers',
     date: '14th Feb 2019',
     desc: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley',
-    userImg: ''
+    userImg: 'assets/profile3.jpg'
   ),
   Comment(
     user: 'Mathilda Glen',
     date: '15th Feb 2019',
     desc: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley',
-    userImg: ''
+    userImg: 'assets/profile4.png'
   ),
 ];
 

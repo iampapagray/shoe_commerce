@@ -49,6 +49,10 @@ flutter:
     - assets/dunk.png
     - assets/jordan.png
     - assets/lebron.png
+    - assets/profile1.jpg
+    - assets/profile2.png
+    - assets/profile3.jpg
+    - assets/profile4.png
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.io/assets-and-images/#resolution-aware.
